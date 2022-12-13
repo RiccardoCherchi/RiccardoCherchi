@@ -11,8 +11,3 @@ I'm a 18 years old passionate developer, curious about new techlogies awlays try
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RiccardoCherchi&theme=shades-of-purple&hide_border=false) &nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RiccardoCherchi&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
