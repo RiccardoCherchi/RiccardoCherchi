@@ -1,6 +1,6 @@
-# Hi, i'm Riccardo😺
+# Hi, I'm Riccardo😺
 
-I'm a 18 years old passionate developer, curious about new techlogies awlays tryng to improve myself.
+I'm an 18-years-old passionate developer, curious about new technologies always trying to improve myself.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/riccardo-cherchi-2847b0181/) 
