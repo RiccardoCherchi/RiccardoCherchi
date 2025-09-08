@@ -1,6 +1,7 @@
 # Hi, I'm Riccardo😺
 
-I'm an 19-years-old passionate developer, curious about new technologies always trying to improve myself.
+I'm a 20-year-old passionate developer with a curious about new technologies, always striving to improve and evolve. As a dedicated cybersecurity enthusiast, I actively participate in various Capture The Flag (CTF) competitions with my team, [Pwnissa](https://ctftime.org/team/386813). I was selected to join the (cyberchallenge)[https://cyberchallenge.it/]
+ program and became part of a 6-member team that competed in the Attack/Defence CTF finals in Turin, Italy. Our team achieved the 7th place out of 40 teams across the country. My main focus during the competition has been on web hacking and infrastructure.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/riccardo-cherchi-2847b0181/) 
